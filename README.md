@@ -1,30 +1,71 @@
-# Splunk Power User Notes – Darren
+# Splunk Power User – Hands-On Portfolio
 
-This repository contains my **notes and practice files** for the Splunk Power User course by George Ntani. It is organized by module for easy reference.
+This repository documents my hands-on work while completing the **Splunk Power User (SPLK‑1001)** course taught by George Ntani.  
+It serves as both a study companion and a professional portfolio demonstrating SIEM fundamentals, SPL query development, data analysis, and dashboard creation.
 
-## /notes – Power User Modules
+---
 
-- 01-introduction-training-data.md – Module 1: Introduction and Training Data
-- 02-transforming-commands-visualization.md – Module 2: Transforming Commands for Visualization
-- 03-advanced-visualizations.md – Module 3: Advanced Visualizations
-- 04-filtering-formatting-results.md – Module 4: Filtering and Formatting Results
-- 05-correlating-events.md – Module 5: Correlating Events
-- 06-creating-mapping-fields.md – Module 6: Creating and Mapping Fields
-- 07-field-aliases-calculated-fields.md – Module 7: Creating Field Aliases and Calculated Fields
-- 08-tags-event-types.md – Module 8: Creating Tags and Event Types
-- 09-macros.md – Module 9: Creating and Using Macros
-- 10-workflow-actions.md – Module 10: Creating and Using Workflow Actions
-- 11-data-models.md – Module 11: Creating Data Models
-- 12-cim-add-on.md – Module 12: Using the Common Information Model (CIM) Add-on
+## 🎯 Purpose of This Repository
+- Build a structured, real-world Splunk portfolio
+- Document my progress through the Power User course
+- Practice SPL queries, dashboards, and data analysis
+- Prepare for Splunk Power User certification
+- Demonstrate SOC-ready skills to future employers
 
-## /queries
+---
 
-This folder will contain SPL queries I reference or practice with.
+## 📂 Repository Structure
 
-## /screenshots
+### **/notes**
+Module-by-module notes from the Splunk Power User course.  
+Includes search fundamentals, fields, lookups, event types, tags, data onboarding, and more.
 
-This folder will contain screenshots from the course to illustrate dashboards, searches, or examples.
+### **/queries**
+A collection of SPL queries written during the course.  
+Each file includes:
+- The SPL query
+- A description of what it does
+- When a SOC analyst would use it
 
-## /exam-prep
+### **/projects**
+Mini-investigations and hands-on exercises based on real SIEM workflows.  
+Examples include:
+- Failed login analysis
+- Brute-force detection
+- Web access log analysis
+- PowerShell activity review
 
-This folder will hold any tricky concepts, notes, or practice questions I want to track for review.
+### **/screenshots**
+Screenshots of dashboards, search results, and visualizations created during the course.
+
+### **/exam-prep**
+Study notes, summaries, and practice material for the Splunk Power User exam.
+
+---
+
+## 🧠 Skills Demonstrated
+- SPL search fundamentals  
+- Field extraction & field discovery  
+- Lookups (CSV, KV store)  
+- Event types & tags  
+- Data onboarding concepts  
+- Dashboard creation  
+- Statistical commands  
+- Security investigation workflows  
+
+---
+
+## 📈 Roadmap
+- [ ] Add module 1–3 notes  
+- [ ] Add first SPL queries  
+- [ ] Add screenshots of dashboards  
+- [ ] Add first investigation project  
+- [ ] Add exam prep notes  
+- [ ] Complete full course outline  
+- [ ] Build final “Capstone Investigation”  
+
+---
+
+## 🤝 About This Project
+This repo will grow as I progress through the course.  
+It is intentionally structured to reflect real SOC workflows and demonstrate hands-on SIEM capability.
