@@ -1,38 +1,14 @@
-# Splunk Core Study – George Ntani Course
+## /notes – Power User Modules
 
-This repo organizes my Splunk Core study materials based on George Ntani’s course.  
-It includes notes, practice questions, SPL commands, and screenshots.
-
-## Folder Overview
-
-### /notes
-- `01-introduction.md` – Course overview, what Splunk is  
-- `02-installation-setup.md` – Installing and configuring Splunk  
-- `03-data-ingestion.md` – Inputs, forwarders, and data sources  
-- `04-searching-spl.md` – SPL basics and search filters  
-- `05-fields-tags.md` – Fields, tags, and event types  
-- `06-reports-dashboards.md` – Dashboards, reports, alerts  
-- `07-user-admin.md` – User roles, permissions, knowledge objects  
-- `08-best-practices.md` – Tips, performance optimization, common mistakes  
-
-### /exam-prep
-- `practice-questions.md` – Notes from practice tests  
-- `tricky-concepts.md` – Hard topics George emphasizes  
-- `exam-tips.md` – Tips for passing the Splunk Core exam  
-
-### /queries
-- `spl-commands.md` – SPL command examples  
-- `saved-searches.md` – Saved searches from the course  
-- `dashboards-examples.md` – Dashboard setups demonstrated in the course  
-
-### /screenshots
-- Screenshots of lab setups and dashboards
-
-## How to Use
-1. Open the folder that matches what you’re studying.  
-2. Add notes or screenshots as you progress.  
-3. Update files with practice exercises, commands, and tips from George’s course.
-
----
-
-*This repo is my personal study guide for the Splunk Core certification.*
+- 01-introduction-training-data.md – Module 1: Introduction and Training Data
+- 02-transforming-commands-visualization.md – Module 2: Transforming Commands for Visualization
+- 03-advanced-visualizations.md – Module 3: Advanced Visualizations
+- 04-filtering-formatting-results.md – Module 4: Filtering and Formatting Results
+- 05-correlating-events.md – Module 5: Correlating Events
+- 06-creating-mapping-fields.md – Module 6: Creating and Mapping Fields
+- 07-field-aliases-calculated-fields.md – Module 7: Creating Field Aliases and Calculated Fields
+- 08-tags-event-types.md – Module 8: Creating Tags and Event Types
+- 09-macros.md – Module 9: Creating and Using Macros
+- 10-workflow-actions.md – Module 10: Creating and Using Workflow Actions
+- 11-data-models.md – Module 11: Creating Data Models
+- 12-cim-add-on.md – Module 12: Using the Common Information Model (CIM) Add-on
