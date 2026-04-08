@@ -1,3 +1,7 @@
+# Splunk Power User Notes – Darren
+
+This repository contains my **notes and practice files** for the Splunk Power User course by George Ntani. It is organized by module for easy reference.
+
 ## /notes – Power User Modules
 
 - 01-introduction-training-data.md – Module 1: Introduction and Training Data
@@ -12,3 +16,15 @@
 - 10-workflow-actions.md – Module 10: Creating and Using Workflow Actions
 - 11-data-models.md – Module 11: Creating Data Models
 - 12-cim-add-on.md – Module 12: Using the Common Information Model (CIM) Add-on
+
+## /queries
+
+This folder will contain SPL queries I reference or practice with.
+
+## /screenshots
+
+This folder will contain screenshots from the course to illustrate dashboards, searches, or examples.
+
+## /exam-prep
+
+This folder will hold any tricky concepts, notes, or practice questions I want to track for review.
