@@ -2,14 +2,24 @@ Module 1 - Introduction and Training Data
 # Module 1 – Introduction and Training Data
 
 ## Video 1 – About Splunk Core Cert Power User Course
-- Key points / notes  
-- SPL commands / examples  
-- Screenshots / references
+# Module 1 – Video 1 Notes
+
+## Purpose of the Power User Course
+The Power User course builds on the Splunk Core User prerequisite and focuses on developing practical SPL skills, field usage, transforming commands, lookups, and dashboards.
+
+## Why the Course Is Valuable
+Splunk Enterprise is expensive and not easily accessible for individuals. This course provides a structured environment and training dataset to practice without needing a full Splunk license.
+
+## Certification Path
+- Splunk Core User (prerequisite)
+- Splunk Power User (this course)
+- Splunk Enterprise Certified Admin
+
+## Course Structure Overview
+The course progresses through search fundamentals, fields, transforming commands, lookups, dashboards, and exam preparation.
 
 ## Video 2 – Course and Exam Prerequisites
-- Key points / notes  
-- SPL commands / examples  
-- Screenshots / references
+
 
 ## Video 3 – Course Outline
 - Key points / notes  
