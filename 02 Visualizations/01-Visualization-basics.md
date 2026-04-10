@@ -13,7 +13,7 @@
 - Works with `stats`, `chart`, and `timechart`
 
 **Example**
-
+... | stats count by status
 - Supports formatting (colors, number formatting, alignment)
 
 ---
@@ -24,7 +24,7 @@
 - Can include trend indicators (up/down arrows)
 
 **Example**
-
+... | stats count as total_events
 ---
 
 ## Event Listing
@@ -33,7 +33,7 @@
 - Often used before transforming commands
 
 **Example**
-
+index=main sourcetype=eventgen
 ---
 
 ## When to Use Each
