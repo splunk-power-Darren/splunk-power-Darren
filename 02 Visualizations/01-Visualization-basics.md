@@ -10,7 +10,7 @@
 ## Statistics Tables
 - Displays results in a clean, column‑based layout  
 - Great for validating data before building charts  
-- Works with `stats`, `chart`, and `timechart`
+- Works with `stats`, `chart`, and `timechart`, `Top`
 
 **Example**
 ... | stats count by status
