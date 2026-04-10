@@ -33,7 +33,7 @@
 - Often used before transforming commands
 
 **Example**
-index=main sourcetype=eventgen
+...index=main sourcetype=eventgen
 ---
 
 ## When to Use Each
