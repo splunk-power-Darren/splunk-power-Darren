@@ -3,7 +3,7 @@
 ---
 
 ## Chart — Single Series
-
+(Chart - stats function- over - field)
 ### Purpose
 Convert events into a table for comparing categories.
 
@@ -19,7 +19,7 @@ index=main sourcetype=eventgen
 ---
 
 ## Chart — Multi Series
-
+( chart-stats function-over-field1-by-field2)
 ### Purpose
 Compare multiple categories at once.
 
