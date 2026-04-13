@@ -51,7 +51,7 @@ index=main sourcetype=eventgen
 ---
 
 ## Timechart — Multi Series
-
+timechart-stats-function-by-field
 ### Purpose
 Trend multiple categories over time.
 
