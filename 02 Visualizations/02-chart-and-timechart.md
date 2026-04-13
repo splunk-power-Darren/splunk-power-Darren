@@ -30,7 +30,7 @@ Compare multiple categories at once.
 
 ### Example Query
 index=main sourcetype=eventgen
-| chart count by user action
+| chart count over nodeName by partner
 
 ---
 
