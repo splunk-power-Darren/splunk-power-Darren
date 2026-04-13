@@ -31,7 +31,7 @@ Compare multiple categories at once.
 ### Example Query
 index=main sourcetype=eventgen
 | chart count over nodeName by partner
-
+![screenshot](../screenshots/Screenshot_13-4-2026_14296_localhost.jpeg)
 ---
 
 ## Timechart — Single Series
