@@ -47,7 +47,7 @@ Create a time-series line chart.
 ### Example Query
 index=main sourcetype=eventgen
 | timechart count
-
+![screenshot](../screenshots/Screenshot_13-4-2026_144951_localhost.jpeg)
 ---
 
 ## Timechart — Multi Series
