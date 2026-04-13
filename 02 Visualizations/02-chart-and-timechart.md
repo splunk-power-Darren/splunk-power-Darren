@@ -61,8 +61,8 @@ Trend multiple categories over time.
 
 ### Example Query
 index=main sourcetype=eventgen
-| timechart count by user
-
+| timechart count by failure code
+![screenshot](../screenshots/Screenshot_13-4-2026_15531_localhost.jpeg)
 ---
 
 ## Common Options (Used in Both Commands)
@@ -73,7 +73,7 @@ useother=f
 
 ### Example
 index=main sourcetype=eventgen
-| timechart span=30m count by action limit=5 useother=f
+| timechart span=5m count by action limit=5 useother=f
 
 ---
 
