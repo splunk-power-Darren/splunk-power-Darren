@@ -15,7 +15,7 @@ Convert events into a table for comparing categories.
 ### Example Query
 index=main sourcetype=eventgen
 | chart count by NodeName
-
+![chart-single-series](../screenshots/chart-single-series.png)
 ---
 
 ## Chart — Multi Series
