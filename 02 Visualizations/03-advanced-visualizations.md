@@ -12,7 +12,7 @@ index=security sourcetype=wineventlog:security
 | stats count by user dest
 
 ### Screenshot
-![scatter-bubble](../screenshots/Screenshot_13-4-2026_15531_localhost.jpeg)
+
 
 ---
 
@@ -34,7 +34,7 @@ index=security sourcetype=wineventlog:security
 | sort - avg_duration
 
 ### Screenshot
-![stats-formatting](../screenshots/Screenshot_13-4-2026_144951_localhost.jpeg)
+
 
 ---
 
@@ -54,7 +54,7 @@ index=security sourcetype=wineventlog:security
 | timechart count by user
 
 ### Screenshot
-![visualization-formatting](../screenshots/Screenshot_13-4-2026_14296_localhost.jpeg)
+
 
 ---
 
