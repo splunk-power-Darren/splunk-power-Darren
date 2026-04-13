@@ -35,7 +35,7 @@ index=main sourcetype=eventgen
 ---
 
 ## Timechart — Single Series
-
+timechart-stats-function
 ### Purpose
 Create a time-series line chart.
 
