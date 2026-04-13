@@ -26,7 +26,7 @@ Compare multiple categories at once.
 ### Key Points
 - Adds a second split-by field
 - Table expands horizontally
-- Useful for comparing actions within users
+- Useful for comparing multiple categories.
 
 ### Example Query
 index=main sourcetype=eventgen
